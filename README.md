@@ -1,2 +1,2 @@
 # C-programming-repo
-repository for beginner C programs
+repository of C programs for beginners
